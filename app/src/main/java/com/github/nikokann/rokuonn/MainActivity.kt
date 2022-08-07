@@ -1,5 +1,4 @@
-
-package com.example.ru_1218.myrecoder
+package com.github.nikokann.rokuonn
 
 import android.Manifest
 import androidx.appcompat.app.AppCompatActivity
@@ -12,6 +11,7 @@ import java.io.IOException
 import android.util.Log
 import android.widget.Button
 import androidx.core.app.ActivityCompat
+import com.github.nikokann.rokuonn.R
 
 private const val LOG_TAG = "AudioRecordTest"
 private const val REQUEST_RECORD_AUDIO_PERMISSION = 200
